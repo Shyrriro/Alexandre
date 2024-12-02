@@ -1,6 +1,7 @@
 # Este é um fluxo de trabalho básico para ajudar você a começar com ações
 
-
+on:
+  create
 
 nome : CI
 
